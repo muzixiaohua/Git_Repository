@@ -8,6 +8,7 @@ Creating a new branch is quick.
 public static void main(String[] args){
 	System.out.println("Hello World!");
         System.out.println("你好");
+		//Bug已经处理
 }
 春风十里~~~~
 
